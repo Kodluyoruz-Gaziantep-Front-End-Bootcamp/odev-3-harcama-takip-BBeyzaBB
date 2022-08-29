@@ -1,5 +1,5 @@
 # Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
+3.Hafta
 
 # Homework 
 ```Ödev```
@@ -7,9 +7,9 @@
 
 ## Homework Description
 
-```Ödev Açıklaması ```
+```Budget App ```
 
 
 ## Author
 
-```Ödevi yapan```
+```Beyza Başdemir```
