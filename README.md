@@ -1,4 +1,4 @@
-# Week - NULL
+# Week - 3
 3.Hafta
 
 # Homework 
